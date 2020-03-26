@@ -1,2 +1,3 @@
 # hello-world
-Prvi repozitorij koji sam ikad napravio
+First repository that i made
+Tcode369 starting small steps for a greater web future.
